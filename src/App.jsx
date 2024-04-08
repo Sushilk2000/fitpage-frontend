@@ -1,7 +1,7 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import StockList from "./Components/StockList";
 import StockListDetails from "./Components/StockListDetails";
-import StockVariable from "./Components/StockVariable";
+import StockVariable from "./Components/StockVariablePage";
 import "./App.css";
 
 function App() {
