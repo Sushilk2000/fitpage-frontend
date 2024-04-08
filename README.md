@@ -1,1 +1,1 @@
-[Hosted Link](https://fitpage-frontend-sushil.netlify.app/)
+[FitPage Fronend App](https://fitpage-frontend-sushil.netlify.app/)
