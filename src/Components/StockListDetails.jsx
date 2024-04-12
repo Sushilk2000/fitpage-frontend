@@ -18,8 +18,6 @@ const StockListDetails = () => {
     };
 
     fetchData();
-
-    return () => {};
   }, []);
 
   const getVariableComponent = (variable, match, index) => {
